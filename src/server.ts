@@ -26,6 +26,8 @@ app.use(
       'https://spearonnear.github.io/SpearHit',
       'https://ashikurrahman25.github.io',
       'https://spearonnear.github.io',
+      'https://game.spearonnear.com',
+      'https://game.spearonnear.com/'
     ],
   })
 );

@@ -59,6 +59,8 @@ app.use((0, cors_1.default)({
         'https://spearonnear.github.io/SpearHit',
         'https://ashikurrahman25.github.io',
         'https://spearonnear.github.io',
+        'https://game.spearonnear.com',
+        'https://game.spearonnear.com/'
     ],
 }));
 const { connect } = nearAPI;
